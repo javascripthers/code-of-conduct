@@ -1,10 +1,10 @@
 # Code of Conduct
 
-Javascripthers is dedicated to providing a harassment-free community for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion (or lack thereof). We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any online platform or in any event venue, including talks. Participants violating these rules may be sanctioned or expelled from events without a refund, or banned from online platforms at the discretion of the community organisers.
+Javascripthers is dedicated to providing a harassment-free community for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion (or lack thereof), physical and mental ability, education level, social and economic class or technology choices. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any online platform or in any event venue, including talks. Participants violating these rules may be sanctioned or expelled from events without a refund, or banned from online platforms at the discretion of the community organisers.
 
 ##Harassment includes, but is not limited to:
 
-- Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age and religion (or lack thereof).
+- Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof), physical and mental ability, education level, social and economic class or technology choices.
 - Sexual images in public and online spaces
 - Deliberate intimidation, stalking, or following
 - Harassing photography or recording
