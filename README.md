@@ -21,11 +21,11 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ##If You Witness or Are Subject to Unacceptable Behavior
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress. If not in the context of an in-person event, please contact us at <mailto:javascripther@gmail.com>.
 
 ##Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the event organizers with a concise description of your grievance.
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct in the context of an in-person event, you should notify one of the event organisers with a concise description of your grievance. Else, you can contact us at <mailto:javascripther@gmail.com>.
 
 ##Scope
 
